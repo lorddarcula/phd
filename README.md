@@ -1,2 +1,2 @@
 # phd
-twitter takeover by elon musk a sentiment anallysis case study
+twitter takeover by elon musk a sentiment analysis case study
